@@ -37,7 +37,7 @@ Marketers can use the app to analyze blog posts, articles, or product descriptio
 
 ## How to Use the App
 
-1. **Access the App**: Click here to use the Keyword & Entity Detection App.
+1. **Access the App**: Click on the link to the live app to use the Keyword & Entity Detection App.
 2. **Enter Your Text**: Paste any block of text (e.g., an article, document, etc.) into the input box.
 3. **Customize Options**: Use the sidebar to highlight specific keywords or toggle entity visibility options.
 4. **View Results**: Once the app processes the text, you’ll see highlighted keywords and named entities, along with a breakdown of the extracted entities in a table.
