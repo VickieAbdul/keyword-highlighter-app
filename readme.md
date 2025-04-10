@@ -45,7 +45,7 @@ Marketers can use the app to analyze blog posts, articles, or product descriptio
 
 ## Demo / Live App
 Here’s the link to interact with the live app:
-👉 [Live Demo: Keyword & Entity Detection App on Hugging Face](https://huggingface.co/spaces/VickieAbdul/keyword-highlighter)
+[Live Demo: Keyword & Entity Detection App on Hugging Face](https://huggingface.co/spaces/VickieAbdul/keyword-highlighter)
 
 ## Additional Resources
 If you're interested in learning more about how this app works, check out these resources:
